@@ -1,0 +1,11 @@
+.hover-overlay:hover{
+  opacity: 0.3;
+  background-color: rgba(251, 251, 251, 0.2);
+  cursor: pointer;
+}
+.text-hover:hover{
+  font-weight: bold;
+  transition: width 275ms ease;
+  color: midnightblue;
+  cursor: pointer;
+}
